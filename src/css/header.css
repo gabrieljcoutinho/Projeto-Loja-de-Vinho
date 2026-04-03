@@ -12,6 +12,9 @@
     padding-top: 1.5rem;
 }
 
+.listaHeader {
+    list-style-type: none;
+}
 
 .linkLista {
     color: #fff;
