@@ -9,6 +9,7 @@
 .listaUlHeader {
     display: flex;
     gap: 40px;
+    padding-top: 1.5rem;
 }
 
 
