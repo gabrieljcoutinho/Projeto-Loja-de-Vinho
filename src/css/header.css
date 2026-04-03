@@ -10,11 +10,12 @@
     display: flex;
     gap: 40px;
     padding-top: 1.5rem;
+    padding-left: 15rem;
 }
 
 .listaHeader {
     list-style-type: none;
-}
+    }
 
 .linkLista {
     color: #fff;
