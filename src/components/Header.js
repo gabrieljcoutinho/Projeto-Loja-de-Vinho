@@ -9,7 +9,7 @@ const Header = () => {
       <img src={imgHeader} alt="" />
 
       <ul className="listaHeader">
-        <li className='listaHeader'><a href=""></a></li>
+        <li className='listaHeader'><a href="#" className='linkLista'>Inicio</a></li>
       </ul>
 
       </div>
