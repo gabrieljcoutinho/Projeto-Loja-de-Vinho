@@ -9,3 +9,8 @@
 .listaUlHeader {
     display: flex;
 }
+
+
+.linkLista {
+    color: #fff;
+}
