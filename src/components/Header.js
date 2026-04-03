@@ -6,7 +6,7 @@ import imgHeader from "../img/logoHeader.png"
 const Header = () => {
   return (
     <div className='header'>
-      <img src={imgHeader} alt="" />
+      <img src={imgHeader} alt="" className='imgHeader' />
 
       <ul className="listaUlHeader">
         <li className='listaHeader'><a href="#" className='linkLista'>Inicio</a></li>
