@@ -8,7 +8,7 @@ const Header = () => {
     <div className='header'>
       <img src={imgHeader} alt="" />
 
-      <ul className="listaHeader">
+      <ul className="listaUlHeader">
         <li className='listaHeader'><a href="#" className='linkLista'>Inicio</a></li>
         <li className='listaHeader'><a href="#" className='linkLista'>Products</a></li>
         <li className='listaHeader'><a href="#" className='linkLista'>Contcto</a></li>
