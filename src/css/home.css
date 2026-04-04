@@ -1,4 +1,7 @@
 .home {
-    background-image: url(../img//imgHome.png);
-    height: 500px;
+    background-image: url("../img/imgHome.png");
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
