@@ -15,10 +15,14 @@
 
 .listaHeader {
     list-style-type: none;
-    }
+}
 
 .linkLista {
     color: #fff;
     text-decoration: none;
     font-size: 30px;
+}
+
+.linkLista:hover {
+    text-decoration: underline;
 }
