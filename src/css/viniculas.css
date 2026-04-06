@@ -1,5 +1,6 @@
 @import url(../fonts//LibreBaskerville.css);
 
-.subTituloVinicula{
-    color:#AF6900;
+.subTituloVinicula {
+    color: #AF6900;
+    font-family: "Libre Baskerville";
 }
