@@ -38,11 +38,13 @@
 }
 
 .localidadeConteudo {
-    background-color: red;
+    background-color: #6c4100;
     width: 500px;
     height: 200px;
+    border-radius: 20px;
 }
 
 .localidadeConteudo img {
     height: 200px;
+    border-radius: 20px;
 }
