@@ -40,9 +40,9 @@
 .localidadeConteudo {
     background-color: red;
     width: 500px;
-    padding-bottom: 1rem;
+    height: 200px;
 }
 
 .localidadeConteudo img {
-    height: 10px;
+    height: 200px;
 }
