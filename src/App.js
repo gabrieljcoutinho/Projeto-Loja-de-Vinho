@@ -4,6 +4,7 @@ import Header from "./components/Header.js"
 import Home from "./components/Home.js"
 import QuemSomos from "./components/QuemSomos.js"
 import NossaHistoria from "./components/NossaHistoria.js"
+import Viniculas from "./components/Viniculas.js"
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
         <Home />
         <QuemSomos/>
         <NossaHistoria />
+        <Viniculas />
     </div>
   );
 }
