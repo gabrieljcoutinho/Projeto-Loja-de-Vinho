@@ -7,6 +7,11 @@ const NossaHistoria = () => {
   return (
     <div className='nossaHistoria'>
 
+<div className="imgNossaHistoria">
+
+<img src={imgNossaHistoria} alt="" />
+</div>
+
               <div className="conteudo">
               <h2 className='tituloNossaHistoria'>Our History</h2>
                 <p className="textoNossaHistoria">
@@ -15,11 +20,6 @@ const NossaHistoria = () => {
 Phasellus ut sem montes, aliquam morbi accumsan nam aenean. Augue ut congue tincidunt eget commodo, tincidunt viverra.
                 </p>
               </div>
-
-                <div className="imgNossaHistoria">
-
-                <img src={imgNossaHistoria} alt="" />
-                </div>
 
     </div>
   )
