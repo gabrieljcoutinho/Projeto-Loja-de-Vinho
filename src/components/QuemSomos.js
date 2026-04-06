@@ -10,7 +10,7 @@ const QuemSomos = () => {
             <div className="movimentacacaoConteudoGeral">
             <div className="texto">
 
-<h1 className="tituloPrincipal">Quem Somo</h1>
+<h1 className="tituloPrincipal">Quem Somos</h1>
 
 <p className="quemSomoParagrafo">
 Lorem Ipsum es simplemente el texto de relleno <br />
