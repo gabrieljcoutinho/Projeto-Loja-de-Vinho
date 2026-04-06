@@ -2,6 +2,7 @@ import React from 'react'
 import "../css/viniculas.css"
 
 import imgVinicula from "../img/exemploVinicula.png"
+import wineTour from "../img/wineTour.png"
 
 const Viniculas = () => {
   return (
