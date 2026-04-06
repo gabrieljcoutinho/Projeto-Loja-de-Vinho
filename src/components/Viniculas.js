@@ -20,6 +20,12 @@ const Viniculas = () => {
 
                             <div className="localidadeConteudo">
                                         <img src={wineTour} alt="" />
+
+
+                                                <div className="conteudoEscrito">
+                                                <h4>WINE TOUR</h4>
+                                                </div>
+
                             </div>
 
                             <div className="localidadeConteudo">
