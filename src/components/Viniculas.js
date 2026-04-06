@@ -17,7 +17,7 @@ const Viniculas = () => {
             <div className="localidades">
 
                             <div className="localidadeConteudo">
-1
+                                        <img src={wineTour} alt="" />
                             </div>
 
                             <div className="localidadeConteudo">
