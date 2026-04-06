@@ -25,18 +25,24 @@
 .eventos {
     display: flex;
     padding-left: 5rem;
-    gap: 2rem; /* 👈 ISSO resolve o “tudo grudado” */
+    gap: 2rem;
+    /* 👈 ISSO resolve o “tudo grudado” */
 }
 
 /* só adiciona isso */
 .localidades {
     display: flex;
     flex-direction: column;
-    gap: 1rem; /* 👈 separa os 3 blocos */
+    gap: 1rem;
+    /* 👈 separa os 3 blocos */
 }
 
 .localidadeConteudo {
     background-color: red;
     width: 500px;
     padding-bottom: 1rem;
+}
+
+.localidadeConteudo img {
+    height: 10px;
 }
