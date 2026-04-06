@@ -26,7 +26,7 @@ const QuemSomos = () => {
                   en documentos electrónicos, quedando <br />
                   esencialmente igual al original. Fue popularizado <br />
                   en los 60s con la creación de las hojas "Letraset", <br />
-                  las cuales contenian pasajes de Lorem Ipsum, y
+                  las cuales contenian pasajes de Lorem Ipsum, y <br />
                    más recientemente con software de autoedición,
                     como por ejemplo Aldus PageMaker, el cual
                      incluye versiones de Lorem Ipsum.
