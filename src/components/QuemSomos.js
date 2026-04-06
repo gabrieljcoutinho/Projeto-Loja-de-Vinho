@@ -1,6 +1,8 @@
 import React from 'react'
 import "../css/quemSomos.css"
 
+import imgQuemSomos from "../img/imgQuemSomos.png";
+
 const QuemSomos = () => {
   return (
     <div className='quemSomos'>
@@ -10,7 +12,7 @@ const QuemSomos = () => {
               </div>
 
               <div className="imagem">
-                
+        <img src={imgQuemSomos} alt="" />
               </div>
 
     </div>
