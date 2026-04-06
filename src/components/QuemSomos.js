@@ -23,7 +23,7 @@ const QuemSomos = () => {
                  mezcló de tal manera que logró hacer un libro <br />
                   de textos especimen. No sólo sobrevivió 500 años, <br />
                   sino que tambien ingresó como texto de relleno <br />
-                  en documentos electrónicos, quedando
+                  en documentos electrónicos, quedando <br />
                   esencialmente igual al original. Fue popularizado
                   en los 60s con la creación de las hojas "Letraset",
                   las cuales contenian pasajes de Lorem Ipsum, y
