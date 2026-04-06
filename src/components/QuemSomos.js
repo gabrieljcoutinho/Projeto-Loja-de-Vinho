@@ -9,6 +9,9 @@ const QuemSomos = () => {
 
               <div className="texto">
               <h1 className="tituloPrincipal">Quem Somo</h1>
+              <p className="quemSomoParagrafo">
+                
+              </p>
               </div>
 
               <div className="imagem">
