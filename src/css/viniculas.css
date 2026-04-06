@@ -25,8 +25,8 @@
 /* mantém igual, só adiciona espaço */
 .eventos {
     display: flex;
-    padding-left: 25rem;
-    gap: 12rem;
+    padding-left: 20rem;
+    gap: 20rem;
     /* 👈 ISSO resolve o “tudo grudado” */
 }
 
