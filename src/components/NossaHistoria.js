@@ -2,7 +2,10 @@ import React from 'react'
 
 const NossaHistoria = () => {
   return (
-    <div>NossaHistoria</div>
+    <div className='nossaHistoria'>
+
+
+    </div>
   )
 }
 
