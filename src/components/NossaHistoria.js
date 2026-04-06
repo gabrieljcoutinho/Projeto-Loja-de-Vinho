@@ -7,8 +7,11 @@ const NossaHistoria = () => {
   return (
     <div className='nossaHistoria'>
 
-                <h2 className='tituloNossaHistoria'>Our History</h2>
+              <div className="conteudo">
+              <h2 className='tituloNossaHistoria'>Our History</h2>
+              </div>
 
+                <div className="imgNossaHistoria"></div>
 
             <img src={imgNossaHistoria} alt="" />
 
