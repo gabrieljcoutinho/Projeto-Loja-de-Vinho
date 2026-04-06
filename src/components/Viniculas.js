@@ -12,7 +12,18 @@ const Viniculas = () => {
             <div className="eventos">
 
             <div className="localidades">
-                                
+
+                            <div className="localidadeConteudo">
+1
+                            </div>
+
+                            <div className="localidadeConteudo">
+2
+                                </div>
+
+                                <div className="localidadeConteudo">
+3
+                                </div>
 
                 </div>
 
