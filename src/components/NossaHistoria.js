@@ -16,9 +16,10 @@ Phasellus ut sem montes, aliquam morbi accumsan nam aenean. Augue ut congue tinc
                 </p>
               </div>
 
-                <div className="imgNossaHistoria"></div>
+                <div className="imgNossaHistoria">
 
-            <img src={imgNossaHistoria} alt="" />
+                <img src={imgNossaHistoria} alt="" />
+                </div>
 
     </div>
   )
