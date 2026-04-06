@@ -18,7 +18,7 @@ const NossaHistoria = () => {
                 Mattis aliquam malesuada euismod augue posuere venenatis. <br />
                  Maecenas faucibus dui vitae tellus et mi. Ut augue <br />
                   mattis augue dui et amet. Fringilla vestibulum dui, <br />
-                   condimentum tristique duis.
+                   condimentum tristique duis. <br />
 
                 Phasellus ut sem montes, aliquam morbi accumsan nam
                 aenean. Augue ut congue tincidunt eget commodo,
