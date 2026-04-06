@@ -8,6 +8,10 @@
     display: flex;
 }
 
+.movimentacacaoConteudoGeral {
+    display: flex;
+}
+
 .tituloPrincipal {
     color: #6C3348;
     font-family: Julius Sans One;
