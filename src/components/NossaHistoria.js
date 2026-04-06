@@ -9,7 +9,7 @@ const NossaHistoria = () => {
 
 <div className="imgNossaHistoria">
 
-<img src={imgNossaHistoria} alt="" />
+<img src={imgNossaHistoria} alt="" className='imgNossaHistoriaDemostracao'/>
 </div>
 
               <div className="conteudo">
