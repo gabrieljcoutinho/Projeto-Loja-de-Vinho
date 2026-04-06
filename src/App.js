@@ -3,6 +3,7 @@ import './index.css'
 import Header from "./components/Header.js"
 import Home from "./components/Home.js"
 import QuemSomos from "./components/QuemSomos.js"
+import NossaHistoria from "./components/NossaHistoria.js"
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
           <Header />
         <Home />
         <QuemSomos/>
+        <NossaHistoria />
     </div>
   );
 }
