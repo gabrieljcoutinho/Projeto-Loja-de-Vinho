@@ -21,7 +21,7 @@ const NossaHistoria = () => {
                    condimentum tristique duis. <br />
 
                 Phasellus ut sem montes, aliquam morbi accumsan nam <br />
-                aenean. Augue ut congue tincidunt eget commodo,
+                aenean. Augue ut congue tincidunt eget commodo, <br />
                  tincidunt viverra.
                 </p>
               </div>
