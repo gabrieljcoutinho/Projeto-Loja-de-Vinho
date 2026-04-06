@@ -21,7 +21,7 @@ const QuemSomos = () => {
                 (N. del T. persona que se dedica a la imprenta)<br />
                 desconocido usó una galería de textos y los<br />
                  mezcló de tal manera que logró hacer un libro <br />
-                  de textos especimen. No sólo sobrevivió 500 años,
+                  de textos especimen. No sólo sobrevivió 500 años, <br />
                   sino que tambien ingresó como texto de relleno
                   en documentos electrónicos, quedando
                   esencialmente igual al original. Fue popularizado
