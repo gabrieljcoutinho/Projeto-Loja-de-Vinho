@@ -21,3 +21,7 @@
     text-align: center;
     font-family: 'Montserrat;';
 }
+
+.eventos {
+    display: flex;
+}
