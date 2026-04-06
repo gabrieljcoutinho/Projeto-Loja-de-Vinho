@@ -17,7 +17,7 @@ const QuemSomos = () => {
               Lorem Ipsum es simplemente el texto de relleno <br />
               de las imprentas y archivos de texto. Lorem<br />
               Ipsum ha sido el texto de relleno estándar de las<br />
-               industrias desde el año 1500, cuando un impresor
+               industrias desde el año 1500, cuando un impresor<br />
                 (N. del T. persona que se dedica a la imprenta)
                 desconocido usó una galería de textos y los
                  mezcló de tal manera que logró hacer un libro
