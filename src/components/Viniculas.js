@@ -16,7 +16,7 @@ const Viniculas = () => {
                 </div>
 
                 <div className="imgVinicula">
-                    
+
                 </div>
 
             </div>
