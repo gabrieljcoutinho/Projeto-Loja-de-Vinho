@@ -16,7 +16,7 @@ const NossaHistoria = () => {
               <h2 className='tituloNossaHistoria'>Our History</h2>
                 <p className="textoNossaHistoria">
                 Mattis aliquam malesuada euismod augue posuere venenatis. <br />
-                 Maecenas faucibus dui vitae tellus et mi. Ut augue
+                 Maecenas faucibus dui vitae tellus et mi. Ut augue <br />
                   mattis augue dui et amet. Fringilla vestibulum dui,
                    condimentum tristique duis.
 
