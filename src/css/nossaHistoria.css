@@ -3,6 +3,7 @@
 .nossaHistoria {
     display: flex;
     gap: 50px;
+    padding-top: 5rem;
 }
 
 .tituloNossaHistoria {
