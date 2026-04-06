@@ -1,6 +1,8 @@
 import React from 'react'
 import "../css/viniculas.css"
 
+import imgVinicula from "../img/exemploVinicula.png"
+
 const Viniculas = () => {
   return (
     <div className='viniculas'>
@@ -28,7 +30,7 @@ const Viniculas = () => {
                 </div>
 
                 <div className="imgVinicula">
-
+                            <img src={imgVinicula} alt="" />
                 </div>
 
             </div>
