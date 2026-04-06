@@ -4,6 +4,7 @@ import "../css/viniculas.css"
 import imgVinicula from "../img/exemploVinicula.png"
 import wineTour from "../img/wineTour.png"
 import aperitivo from "../img/aperitivo.png"
+import coletaUva from "../img/coletaUva.png"
 
 const Viniculas = () => {
   return (
@@ -22,11 +23,11 @@ const Viniculas = () => {
                             </div>
 
                             <div className="localidadeConteudo">
- <img src={aperitivo} alt="" />
+                                    <img src={aperitivo} alt="" />
                                 </div>
 
                                 <div className="localidadeConteudo">
-3
+                                        <img src={coletaUva} alt="" />
                                 </div>
 
                 </div>
