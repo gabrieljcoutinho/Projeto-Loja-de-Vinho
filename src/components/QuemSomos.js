@@ -34,7 +34,7 @@ Ipsum ha sido el texto de relleno estándar de las<br />
 </div>
 
 <div className="imagem">
-<img src={imgQuemSomos} alt="" />
+<img src={imgQuemSomos} alt=""  className='imgVinhoQuemSomos'/>
 </div>
 
             </div>
