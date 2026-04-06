@@ -1,4 +1,5 @@
 import React from 'react'
+import "../css/nossaHistoria.css"
 
 const NossaHistoria = () => {
   return (
