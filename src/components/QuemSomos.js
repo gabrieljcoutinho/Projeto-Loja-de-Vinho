@@ -14,7 +14,7 @@ const QuemSomos = () => {
               <p className="quemSomoParagrafo">
 
               </p>
-              Lorem Ipsum es simplemente el texto de relleno
+              Lorem Ipsum es simplemente el texto de relleno <br />
               de las imprentas y archivos de texto. Lorem
               Ipsum ha sido el texto de relleno estándar de las
                industrias desde el año 1500, cuando un impresor
