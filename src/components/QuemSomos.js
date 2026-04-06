@@ -22,7 +22,7 @@ const QuemSomos = () => {
                 desconocido usó una galería de textos y los<br />
                  mezcló de tal manera que logró hacer un libro <br />
                   de textos especimen. No sólo sobrevivió 500 años, <br />
-                  sino que tambien ingresó como texto de relleno
+                  sino que tambien ingresó como texto de relleno <br />
                   en documentos electrónicos, quedando
                   esencialmente igual al original. Fue popularizado
                   en los 60s con la creación de las hojas "Letraset",
