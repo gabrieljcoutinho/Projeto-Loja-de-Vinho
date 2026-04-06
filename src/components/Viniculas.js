@@ -5,7 +5,7 @@ const Viniculas = () => {
   return (
     <div className='viniculas'>
 
-
+            <h3 className="tituloVinicula">Vineyard Events</h3>
 
     </div>
   )
