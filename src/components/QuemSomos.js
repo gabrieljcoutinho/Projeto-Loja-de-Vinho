@@ -3,7 +3,7 @@ import "../css/quemSomos.css"
 
 const QuemSomos = () => {
   return (
-    <div>
+    <div className='quemSomos'>
 
         <h1 className="tituloPrincipal">Quem Somo</h1>
 
