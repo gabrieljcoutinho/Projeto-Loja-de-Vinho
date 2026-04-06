@@ -3,7 +3,11 @@ import "../css/viniculas.css"
 
 const Viniculas = () => {
   return (
-    <div>Viniculas</div>
+    <div className='viniculas'>
+
+
+
+    </div>
   )
 }
 
