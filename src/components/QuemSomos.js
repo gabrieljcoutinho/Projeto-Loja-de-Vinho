@@ -28,7 +28,7 @@ const QuemSomos = () => {
                   en los 60s con la creación de las hojas "Letraset", <br />
                   las cuales contenian pasajes de Lorem Ipsum, y <br />
                    más recientemente con software de autoedición, <br />
-                    como por ejemplo Aldus PageMaker, el cual
+                    como por ejemplo Aldus PageMaker, el cual <br />
                      incluye versiones de Lorem Ipsum.
               </div>
 
