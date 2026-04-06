@@ -5,6 +5,7 @@
     padding-left: 3rem;
     background-color: #c0c0c0;
     height: 600px;
+    display: flex;
 }
 
 .tituloPrincipal {
