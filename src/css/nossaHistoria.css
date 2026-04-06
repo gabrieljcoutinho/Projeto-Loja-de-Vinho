@@ -1,7 +1,6 @@
 @import url("../fonts//Montserrat.css");
 
 .tituloNossaHistoria {
-    font-family: Montserrat;
-    font-weight: 100px;
-    font-bold: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
 }
