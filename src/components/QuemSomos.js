@@ -13,8 +13,6 @@ const QuemSomos = () => {
 <h1 className="tituloPrincipal">Quem Somo</h1>
 
 <p className="quemSomoParagrafo">
-
-</p>
 Lorem Ipsum es simplemente el texto de relleno <br />
 de las imprentas y archivos de texto. Lorem<br />
 Ipsum ha sido el texto de relleno estándar de las<br />
@@ -31,6 +29,8 @@ Ipsum ha sido el texto de relleno estándar de las<br />
      más recientemente con software de autoedición, <br />
       como por ejemplo Aldus PageMaker, el cual <br />
        incluye versiones de Lorem Ipsum.
+</p>
+
 </div>
 
 <div className="imagem">
