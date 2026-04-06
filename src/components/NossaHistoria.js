@@ -20,7 +20,7 @@ const NossaHistoria = () => {
                   mattis augue dui et amet. Fringilla vestibulum dui, <br />
                    condimentum tristique duis. <br />
 
-                Phasellus ut sem montes, aliquam morbi accumsan nam
+                Phasellus ut sem montes, aliquam morbi accumsan nam <br />
                 aenean. Augue ut congue tincidunt eget commodo,
                  tincidunt viverra.
                 </p>
