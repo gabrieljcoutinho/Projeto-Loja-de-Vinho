@@ -9,6 +9,9 @@ const NossaHistoria = () => {
 
               <div className="conteudo">
               <h2 className='tituloNossaHistoria'>Our History</h2>
+                <p className="textoNossaHistoria">
+                    
+                </p>
               </div>
 
                 <div className="imgNossaHistoria"></div>
