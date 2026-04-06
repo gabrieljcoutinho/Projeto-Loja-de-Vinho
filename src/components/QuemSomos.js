@@ -18,7 +18,7 @@ const QuemSomos = () => {
               de las imprentas y archivos de texto. Lorem<br />
               Ipsum ha sido el texto de relleno estándar de las<br />
                industrias desde el año 1500, cuando un impresor<br />
-                (N. del T. persona que se dedica a la imprenta)
+                (N. del T. persona que se dedica a la imprenta)<br />
                 desconocido usó una galería de textos y los
                  mezcló de tal manera que logró hacer un libro
                   de textos especimen. No sólo sobrevivió 500 años,
