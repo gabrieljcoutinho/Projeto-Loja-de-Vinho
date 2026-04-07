@@ -49,7 +49,7 @@ const Loja = () => {
 
                 <li>Bodega | Mendoza</li>
 
-                <li>Cosecha tardia</li>
+                <li className='itemListaDestaques'>Cosecha tardia</li>
     </ul>
 
 </div>
