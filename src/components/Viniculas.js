@@ -15,13 +15,13 @@ const eventos = [
   },
   {
     img: aperitivo,
-    titulo: "APERITIVO",
+    titulo: "APERITIV",
     data: "18 Maio 2026",
     info: "18:00 PM - Toscana"
   },
   {
     img: coletaUva,
-    titulo: "COLETA DE UVA",
+    titulo: "DRINK´S ORIGIN",
     data: "25 Maio 2026",
     info: "08:00 AM - Mendoza"
   }
