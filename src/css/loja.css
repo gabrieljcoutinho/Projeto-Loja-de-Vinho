@@ -21,7 +21,10 @@ span {
     display: flex;
     flex-flow: row wrap;
     margin-bottom: 15px;
-    justify-content: space-around;
+    justify-content: center;
+    /* centraliza sem espalhar */
+    gap: 200px;
+    /* controla a distância entre elas */
 }
 
 
