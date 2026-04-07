@@ -2,6 +2,7 @@ import React from 'react'
 import "../css/loja.css"
 
 import imgVinho1 from "../img/vinho/vinhoBarroco.png"
+import imgVinho2 from "../img/vinho/vinhoParadigma.png"
 
 const Loja = () => {
   return (
