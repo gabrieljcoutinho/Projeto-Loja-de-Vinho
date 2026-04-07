@@ -9,15 +9,31 @@ const Loja = () => {
 
                 <div className="flexbox">
                             <div className="div1">
-
+1
                             </div>
 
                             <div className="div1">
-
+1
                             </div>
 
                             <div className="div1">
+1
+                            </div>
+                </div>
 
+
+
+                <div className="flexbox">
+                            <div className="div1">
+1
+                            </div>
+
+                            <div className="div1">
+1
+                            </div>
+
+                            <div className="div1">
+1
                             </div>
                 </div>
 
