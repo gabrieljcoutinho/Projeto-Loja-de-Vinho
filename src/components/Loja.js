@@ -33,6 +33,8 @@ const Loja = () => {
 
 <p className="NomeVinho">Paradigma</p>
 
+<p className="precoVinho"></p>
+
 
 </div>
 
