@@ -27,7 +27,7 @@ const Loja = () => {
             <p className="precoVinho">$ 83.920</p>
 
             <ul className="descricaoVinho">
-                <li>Malbec 1987</li>
+                <li >Malbec 1987</li>
 
                 <li>Bodega | Mendoza</li>
 
