@@ -129,6 +129,7 @@ const Loja = () => {
                 <li className='itemListaDestaques'>Cosecha tardia</li>
     </ul>
 
+<br />
 
 <button className='btnComprar'>Comprar</button>
 
