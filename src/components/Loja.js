@@ -129,9 +129,9 @@ const Loja = () => {
                 <li className='itemListaDestaques'>Cosecha tardia</li>
     </ul>
 
-<div className="movimentacao">
+
 <button className='btnComprar'>Comprar</button>
-</div>
+
 
     </div>
 
