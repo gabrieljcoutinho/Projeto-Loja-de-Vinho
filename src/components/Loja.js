@@ -19,8 +19,6 @@ const Loja = () => {
 <div class="div1">
 </div>
 
-<div class="div1">
-</div>
 
 </div>
 
@@ -37,8 +35,7 @@ const Loja = () => {
     <div class="div1">
     </div>
 
-    <div class="div1">
-    </div>
+
 
 </div>
     </div>
