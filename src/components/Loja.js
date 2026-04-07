@@ -31,7 +31,7 @@ const Loja = () => {
 <div class="div1">
 <img src={imgVinho2} alt="" className='imgVinhos' />
 
-<p className="NomeVinho"></p>
+<p className="NomeVinho">Paradigma</p>
 
 
 </div>
