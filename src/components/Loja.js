@@ -47,7 +47,7 @@ const Loja = () => {
             <ul className="descricaoVinho">
                 <li>Malbec 1987</li>
 
-                <li>Bodega | Mendoza</li>
+                <li className='itemListaDestaques'>Bodega | Mendoza</li>
 
                 <li className='itemListaDestaques'>Cosecha tardia</li>
     </ul>
