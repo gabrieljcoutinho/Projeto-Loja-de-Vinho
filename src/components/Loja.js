@@ -34,6 +34,11 @@ const Loja = () => {
                 <li className='itemListaDestaques'>Cosecha tardia</li>
     </ul>
 
+
+    <br />
+
+    <button className='btnComprar'>Comprar</button>
+
 </div>
 
 <div class="div1">
@@ -52,6 +57,11 @@ const Loja = () => {
                 <li className='itemListaDestaques'>Cosecha tardia</li>
     </ul>
 
+
+    <br />
+
+    <button className='btnComprar'>Comprar</button>
+
 </div>
 
 <div class="div1">
@@ -69,6 +79,11 @@ const Loja = () => {
 
                 <li className='itemListaDestaques'>Cosecha tardia</li>
     </ul>
+
+
+    <br />
+
+    <button className='btnComprar'>Comprar</button>
 
 </div>
 
@@ -95,6 +110,10 @@ const Loja = () => {
                 <li className='itemListaDestaques'>Cosecha tardia</li>
     </ul>
 
+    <br />
+
+    <button className='btnComprar'>Comprar</button>
+
     </div>
 
     <div class="div1">
@@ -111,6 +130,10 @@ const Loja = () => {
 
                 <li className='itemListaDestaques'>Cosecha tardia</li>
     </ul>
+
+    <br />
+
+    <button className='btnComprar'>Comprar</button>
 
     </div>
 
