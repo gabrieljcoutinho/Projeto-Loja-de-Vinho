@@ -53,7 +53,7 @@ const Viniculas = () => {
         </div>
 
         <div className="imgVinicula">
-          <img src={imgVinicula} alt="Vinicula" />
+          <img src={imgVinicula} alt="Vinicula" className='vinicula'/>
         </div>
 
       </div>
