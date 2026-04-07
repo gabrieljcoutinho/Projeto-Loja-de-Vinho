@@ -5,7 +5,7 @@ const Loja = () => {
   return (
     <div>
 
-                <h5>DESTAQUES</h5>
+                <h5 className='tituloDestaque'>DESTAQUES</h5>
 
     </div>
   )
