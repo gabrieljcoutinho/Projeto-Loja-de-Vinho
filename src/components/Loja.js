@@ -27,11 +27,11 @@ const Loja = () => {
             <p className="precoVinho">$ 83.920</p>
 
             <ul className="descricaoVinho">
-                <li></li>
+                <li>Malbec 1987</li>
 
-                <li></li>
+                <li>Bodega | Mendoza</li>
 
-                <li></li>
+                <li>Cosecha tardia</li>
     </ul>
 
 </div>
@@ -43,12 +43,13 @@ const Loja = () => {
 
 <p className="precoVinho">$ 23.000</p>
 
-<ul className="descricaoVinho">
-                <li></li>
 
-                <li></li>
+            <ul className="descricaoVinho">
+                <li>Malbec 1987</li>
 
-                <li></li>
+                <li>Bodega | Mendoza</li>
+
+                <li>Cosecha tardia</li>
     </ul>
 
 </div>
@@ -60,12 +61,13 @@ const Loja = () => {
 
 <p className="precoVinho"> $ 23.000</p>
 
-<ul className="descricaoVinho">
-                <li></li>
 
-                <li></li>
+            <ul className="descricaoVinho">
+                <li>Malbec 1987</li>
 
-                <li></li>
+                <li>Bodega | Mendoza</li>
+
+                <li>Cosecha tardia</li>
     </ul>
 
 </div>
@@ -85,11 +87,11 @@ const Loja = () => {
     <p className="precoVinho"> $ 10.5000</p>
 
     <ul className="descricaoVinho">
-                <li></li>
+                <li>Malbec 1987</li>
 
-                <li></li>
+                <li>Bodega | Mendoza</li>
 
-                <li></li>
+                <li>Cosecha tardia</li>
     </ul>
 
     </div>
@@ -102,11 +104,11 @@ const Loja = () => {
     <p className="precoVinho"> $ 23.420</p>
 
     <ul className="descricaoVinho">
-                <li></li>
+                <li>Malbec 1987</li>
 
-                <li></li>
+                <li>Bodega | Mendoza</li>
 
-                <li></li>
+                <li>Cosecha tardia</li>
     </ul>
 
     </div>
@@ -119,11 +121,11 @@ const Loja = () => {
     <p className="precoVinho"> $ 9.000</p>
 
     <ul className="descricaoVinho">
-                <li></li>
+                <li>Malbec 1987</li>
 
-                <li></li>
+                <li>Bodega | Mendoza</li>
 
-                <li></li>
+                <li>Cosecha tardia</li>
     </ul>
 
     </div>
