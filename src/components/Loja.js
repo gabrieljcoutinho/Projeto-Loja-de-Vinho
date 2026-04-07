@@ -20,15 +20,15 @@ const Loja = () => {
 <div class="flexbox">
 
 <div class="div1">
-     <img src={imgVinho1} alt="" />
+     <img src={imgVinho1} alt="" className='imgVinhos' />
 </div>
 
 <div class="div1">
-<img src={imgVinho2} alt="" />
+<img src={imgVinho2} alt="" className='imgVinhos' />
 </div>
 
 <div class="div1">
-<img src={imgVinho3} alt="" />
+<img src={imgVinho3} alt="" className='imgVinhos' />
 </div>
 
 
@@ -39,15 +39,15 @@ const Loja = () => {
 <div class="flexbox">
 
     <div class="div1">
-    <img src={imgVinho4} alt="" />
+    <img src={imgVinho4} alt="" className='imgVinhos' />
     </div>
 
     <div class="div1">
-    <img src={imgVinho5} alt="" />
+    <img src={imgVinho5} alt="" className='imgVinhos' />
     </div>
 
     <div class="div1">
-    <img src={imgVinho6} alt="" />
+    <img src={imgVinho6} alt="" className='imgVinhos' />
     </div>
 
 
