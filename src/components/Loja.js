@@ -72,6 +72,8 @@ const Loja = () => {
 
     <p className="NomeVinho">Amalaya</p>
 
+    <p className="precoVinho"></p>
+
     </div>
 
 
