@@ -28,7 +28,7 @@ const Loja = () => {
 </div>
 
 <div class="div1">
-<img src={imgVinho1} alt="" />
+<img src={imgVinho3} alt="" />
 </div>
 
 
@@ -39,6 +39,7 @@ const Loja = () => {
 <div class="flexbox">
 
     <div class="div1">
+    <img src={imgVinho4} alt="" />
     </div>
 
     <div class="div1">
