@@ -14,3 +14,7 @@
 span {
     color: #6C3348;
 }
+
+.flexbox {
+    display: flex;
+}
