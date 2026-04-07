@@ -21,8 +21,7 @@ span {
     display: flex;
     flex-flow: row wrap;
     margin-bottom: 15px;
-    justify-content: space-between;
-    padding: 130px;
+    justify-content: space-around;
 }
 
 
@@ -35,5 +34,4 @@ span {
 .flexbox div {
     background-color: #303030;
     width: 400px;
-    margin: 15px;
 }
