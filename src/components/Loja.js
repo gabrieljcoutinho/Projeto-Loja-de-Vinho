@@ -28,6 +28,7 @@ const Loja = () => {
 </div>
 
 <div class="div1">
+<img src={imgVinho1} alt="" />
 </div>
 
 
