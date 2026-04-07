@@ -1,6 +1,8 @@
 import React from 'react'
 import "../css/loja.css"
 
+import imgVinho1 from "../img/vinho/vinhoBarroco.png"
+
 const Loja = () => {
   return (
     <div className='destques'>
