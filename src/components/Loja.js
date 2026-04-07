@@ -14,13 +14,16 @@ const Loja = () => {
   return (
     <div className='destques'>
 
-                <h5 className='tituloDestaque'><span>DESTA</span>QUES</h5>
+                <h5 className='tituloDestaque'><span className='spanDestaque'>DESTA</span>QUES</h5>
 
 
 <div class="flexbox">
 
 <div class="div1">
      <img src={imgVinho1} alt="" className='imgVinhos' />
+
+
+
 </div>
 
 <div class="div1">
