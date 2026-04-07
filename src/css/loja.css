@@ -17,4 +17,5 @@ span {
 
 .flexbox {
     display: flex;
+    gap: 20px;
 }
