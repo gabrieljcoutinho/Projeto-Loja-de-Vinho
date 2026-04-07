@@ -7,36 +7,40 @@ const Loja = () => {
 
                 <h5 className='tituloDestaque'><span>DESTA</span>QUES</h5>
 
-                <div className="flexbox">
-                            <div className="div1">
-1
-                            </div>
 
-                            <div className="div1">
-1
-                            </div>
+<div class="flexbox">
 
-                            <div className="div1">
-1
-                            </div>
-                </div>
+<div class="div1">
+</div>
+
+<div class="div1">
+</div>
+
+<div class="div1">
+</div>
+
+<div class="div1">
+</div>
+
+</div>
 
 
 
-                <div className="flexbox">
-                            <div className="div1">
-1
-                            </div>
+<div class="flexbox">
 
-                            <div className="div1">
-1
-                            </div>
+    <div class="div1">
+    </div>
 
-                            <div className="div1">
-1
-                            </div>
-                </div>
+    <div class="div1">
+    </div>
 
+    <div class="div1">
+    </div>
+
+    <div class="div1">
+    </div>
+
+</div>
     </div>
   )
 }
