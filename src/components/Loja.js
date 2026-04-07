@@ -24,7 +24,7 @@ const Loja = () => {
 
             <p className="NomeVinho">Barroco</p>
 
-            <p className="precoVinho">$ 83.920,00</p>
+            <p className="precoVinho">$ 83.920</p>
 
 
 
