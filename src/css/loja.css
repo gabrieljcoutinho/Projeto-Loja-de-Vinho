@@ -15,8 +15,24 @@ span {
     color: #6C3348;
 }
 
-.flexbox {
+.flexbox{
+    padding-top: 5rem;
+    height: 600px;
     display: flex;
-    gap: 20px;
-    padding-left: 5rem;
+    flex-flow: row wrap;
+    margin-bottom: 15px;
+    justify-content: space-between;
+}
+
+
+
+.flexbox img{
+    width: 300px;
+
+}
+
+.flexbox div{
+    background-color: deepskyblue;
+    width: 300px;
+    margin: 15px;
 }
