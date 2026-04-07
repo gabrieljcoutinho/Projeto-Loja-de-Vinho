@@ -20,10 +20,11 @@ const Loja = () => {
 <div class="flexbox">
 
 <div class="div1">
-        <img src={imgVinho1} alt="" />
+     <img src={imgVinho1} alt="" />
 </div>
 
 <div class="div1">
+<img src={imgVinho2} alt="" />
 </div>
 
 <div class="div1">
