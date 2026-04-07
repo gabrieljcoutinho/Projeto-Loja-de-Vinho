@@ -80,7 +80,7 @@ const Loja = () => {
 
     <p className="NomeVinho">Amalaya</p>
 
-    <p className="precoVinho"></p>
+    <p className="precoVinho"> $ 9.000</p>
 
     </div>
 
