@@ -6,6 +6,7 @@ import imgVinho2 from "../img/vinho/vinhoParadigma.png"
 import imgVinho3 from "../img/vinho/vinhoQuieto.png"
 import imgVinho4 from "../img/vinho/vinhoParadigma2.png"
 import imgVinho5 from "../img/vinho/vinhoBarrocoRose.png"
+import imgVinho6 from "../img/vinho/vinhoAmalaya.png"
 
 
 
