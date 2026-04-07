@@ -31,11 +31,12 @@
 
 .flexbox img {
     width: 400px;
+    padding: 20px;
 
 }
 
 .flexbox div {
     background-color: #303030;
-    width: 400px;
+    width: 450px;
     border-radius: 10px;
 }
