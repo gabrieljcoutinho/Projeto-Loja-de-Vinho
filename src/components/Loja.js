@@ -65,6 +65,8 @@ const Loja = () => {
 
     <p className="NomeVinho">Barroco Rose</p>
 
+    <p className="precoVinho"></p>
+
     </div>
 
     <div class="div1">
