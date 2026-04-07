@@ -53,14 +53,23 @@ const Loja = () => {
 
     <div class="div1">
     <img src={imgVinho4} alt="" className='imgVinhos' />
+
+    <p className="NomeVinho"></p>
+
     </div>
 
     <div class="div1">
     <img src={imgVinho5} alt="" className='imgVinhos' />
+
+    <p className="NomeVinho"></p>
+
     </div>
 
     <div class="div1">
     <img src={imgVinho6} alt="" className='imgVinhos' />
+
+    <p className="NomeVinho"></p>
+
     </div>
 
 
