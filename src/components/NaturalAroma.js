@@ -4,6 +4,7 @@ import "../css/naturalAroma.css"
 import img1 from "../img/naturalAroma/naturalAroma1.png"
 import img2 from "../img/naturalAroma/naturalAroma2.png"
 import img3 from "../img/naturalAroma/naturalAroma3.png"
+import img4 from "../img/naturalAroma/naturalAroma4ng"
 
 const NaturalAroma = () => {
   return (
