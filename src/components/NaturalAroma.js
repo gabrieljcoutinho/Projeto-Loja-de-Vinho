@@ -67,31 +67,45 @@ const NaturalAroma = () => {
 
         <div className="naturaSelo">
 
-                <div className="coluna1">
+        <div className="naturaSelo">
 
-                          <span>
-                                      <img src={imgSeloNatura1} alt="" className='selos'/>
-                                        <h5>Wine Glass</h5>
-                          </span>
+<div className="coluna">
+  <div className="item">
+    <img src={imgSeloNatura1} className="selos" />
+    <div>
+      <h5>Wine Glass</h5>
+      <p>Lorem ipsum malesuada</p>
+    </div>
+  </div>
 
-                          <span>
-                          <img src={imgSeloNatura2} alt="" className='selos'/>
-                          <h5>Fine Smell</h5>
-                            </span>
+  <div className="item">
+    <img src={imgSeloNatura2} className="selos" />
+    <div>
+      <h5>Fine Smell</h5>
+      <p>Lorem ipsum malesuada</p>
+    </div>
+  </div>
+</div>
 
-                </div>
+<div className="coluna">
+  <div className="item">
+    <img src={imgSeloNatura3} className="selos" />
+    <div>
+      <h5>Unique Sort</h5>
+      <p>Lorem ipsum malesuada</p>
+    </div>
+  </div>
 
-                <div className="coluna2">
+  <div className="item">
+    <img src={imgSeloNatura4} className="selos" />
+    <div>
+      <h5>Old Habit</h5>
+      <p>Lorem ipsum malesuada</p>
+    </div>
+  </div>
+</div>
 
-                <span>
-                                      <img src={imgSeloNatura3} alt="" className='selos'/>
-                          </span>
-
-                          <span>
-                          <img src={imgSeloNatura4} alt="" className='selos'/>
-                            </span>
-
-                </div>
+</div>
 
 
         </div>
