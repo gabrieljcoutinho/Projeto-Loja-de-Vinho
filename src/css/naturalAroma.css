@@ -1,4 +1,5 @@
 @import url("../fonts//LibreBaskerville.css");
+@import url("../fonts//Julius.css");
 
 
 .naturalAroma {
@@ -16,4 +17,5 @@
     color: #482817;
     text-align: center;
     font-size: 40px;
+    font-family: Julius Sans One;
 }
