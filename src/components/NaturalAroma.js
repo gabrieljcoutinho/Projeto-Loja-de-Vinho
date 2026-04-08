@@ -11,6 +11,7 @@ import img6 from "../img/naturalAroma/naturalAroma6.png"
 import imgSelo from "../img/naturalAroma/selo.png"
 
 import imgSeloNatura1 from "../img/naturaAromaSelo/wineGlass.png"
+import imgSeloNatura2 from "../img/naturaAromaSelo/oldHabitat.png"
 
 const NaturalAroma = () => {
   return (
