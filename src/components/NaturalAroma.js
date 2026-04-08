@@ -70,7 +70,7 @@ const NaturalAroma = () => {
                 <div className="coluna1">
 
                           <span>
-                                      <img src={imgSeloNatura1} alt="" />
+                                      <img src={imgSeloNatura1} alt="" className='selos'/>
                           </span>
 
                           <span>
