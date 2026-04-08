@@ -3,7 +3,7 @@ import "../css/naturalAroma.css"
 
 const NaturalAroma = () => {
   return (
-    <div>
+    <div className='naturalAroma'>
 
                 <h3 className='subtitulo'>AUGUE SED NEC</h3>
 
