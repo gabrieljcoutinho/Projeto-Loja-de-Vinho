@@ -19,39 +19,40 @@ const NaturalAroma = () => {
 
 
 
-                <div className="flexboxNaturalAroma">
+              <div className="flexboxGeral"></div>
+              <div className="flexboxNaturalAroma">
 
-                      <div className="itensNaturalAroma">
-          <img src={img1} alt="" />
-                      </div>
+<div className="itensNaturalAroma">
+<img src={img1} alt="" />
+</div>
 
-                      <div className="itensNaturalAroma">
-                      <img src={img2} alt="" />
-                      </div>
+<div className="itensNaturalAroma">
+<img src={img2} alt="" />
+</div>
 
-                      <div className="itensNaturalAroma">
-                      <img src={img3} alt="" />
-                      </div>
+<div className="itensNaturalAroma">
+<img src={img3} alt="" />
+</div>
 
-                </div>
+</div>
 
 
 
-                <div className="flexboxNaturalAroma">
+<div className="flexboxNaturalAroma">
 
-                <div className="itensNaturalAroma">
-                <img src={img4} alt="" />
-                        </div>
+<div className="itensNaturalAroma">
+<img src={img4} alt="" />
+  </div>
 
-                        <div className="itensNaturalAroma">
-                        <img src={img5} alt="" />
-                      </div>
+  <div className="itensNaturalAroma">
+  <img src={img5} alt="" />
+</div>
 
-                      <div className="itensNaturalAroma">
-                      <img src={img6} alt="" />
-                      </div>
+<div className="itensNaturalAroma">
+<img src={img6} alt="" />
+</div>
 
-                  </div>
+</div>
 
     </div>
   )
