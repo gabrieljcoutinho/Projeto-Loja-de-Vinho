@@ -46,7 +46,7 @@
 
 .naturaSelo {
     padding-left: 50rem;
-
+    transform: translate(0, -100px);
 }
 
 .selos {
