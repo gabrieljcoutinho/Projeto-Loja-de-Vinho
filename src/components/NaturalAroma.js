@@ -30,7 +30,7 @@ const NaturalAroma = () => {
                       </div>
 
                       <div className="itensNaturalAroma">
-3
+                      <img src={img3} alt="" />
                       </div>
 
                 </div>
