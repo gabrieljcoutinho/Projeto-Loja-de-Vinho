@@ -6,6 +6,7 @@ import QuemSomos from "./components/QuemSomos.js"
 import NossaHistoria from "./components/NossaHistoria.js"
 import Viniculas from "./components/Viniculas.js"
 import Loja from "./components/Loja.js"
+import NaturalAroma from "./components/NaturalAroma.js"
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
         <NossaHistoria />
         <Viniculas />
         <Loja/>
+        <NaturalAroma />
     </div>
   );
 }
