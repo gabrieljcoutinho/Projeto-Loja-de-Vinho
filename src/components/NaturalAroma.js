@@ -81,6 +81,14 @@ const NaturalAroma = () => {
 
                 <div className="coluna2">
 
+                <span>
+                                      <img src={imgSeloNatura3} alt="" />
+                          </span>
+
+                          <span>
+                          <img src={imgSeloNatura4} alt="" />
+                            </span>
+
                 </div>
 
 
