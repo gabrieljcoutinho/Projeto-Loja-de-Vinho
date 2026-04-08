@@ -17,6 +17,7 @@ function App() {
         <QuemSomos/>
         <NossaHistoria />
         <Viniculas />
+        <br /><br /><br /><br />
         <Loja/>
         <NaturalAroma />
     </div>
