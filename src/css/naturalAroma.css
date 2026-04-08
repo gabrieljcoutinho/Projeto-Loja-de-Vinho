@@ -55,6 +55,7 @@
     display: flex;
     flex-direction: column;
     gap: 40px;
+    transform: translate(0, -250px);
 }
 
 .item {
@@ -64,7 +65,7 @@
 }
 
 .selos {
-    width: 100px;
+    width: 150px;
 }
 
 .item h5 {
