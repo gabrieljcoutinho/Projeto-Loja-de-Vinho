@@ -14,6 +14,18 @@ const NaturalAroma = () => {
 
                 <div className="flexboxNaturalAroma">
 
+                      <div className="itensNaturalAroma">
+
+                      </div>
+
+                      <div className="itensNaturalAroma">
+
+                      </div>
+
+                      <div className="itensNaturalAroma">
+
+                      </div>
+
                 </div>
 
 
