@@ -52,3 +52,7 @@
 .selos {
     width: 100px;
 }
+
+.coluna1 {
+    display: flex;
+}
