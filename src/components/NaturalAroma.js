@@ -2,6 +2,7 @@ import React from 'react'
 import "../css/naturalAroma.css"
 
 import img1 from "../img/naturalAroma/naturalAroma1.png"
+import img2 from "../img/naturalAroma/naturalAroma2.png"
 
 const NaturalAroma = () => {
   return (
