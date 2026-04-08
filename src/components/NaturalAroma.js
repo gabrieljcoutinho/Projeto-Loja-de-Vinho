@@ -6,6 +6,7 @@ import img2 from "../img/naturalAroma/naturalAroma2.png"
 import img3 from "../img/naturalAroma/naturalAroma3.png"
 import img4 from "../img/naturalAroma/naturalAroma4ng"
 import img5 from "../img/naturalAroma/naturalAroma5.png"
+import img6 from "../img/naturalAroma/naturalAroma6.png"
 
 const NaturalAroma = () => {
   return (
