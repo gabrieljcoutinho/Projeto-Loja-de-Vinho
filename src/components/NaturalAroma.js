@@ -1,6 +1,8 @@
 import React from 'react'
 import "../css/naturalAroma.css"
 
+import img1 from "../img/naturalAroma/naturalAroma1.png"
+
 const NaturalAroma = () => {
   return (
     <div className='naturalAroma'>
