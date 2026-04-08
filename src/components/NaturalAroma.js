@@ -8,6 +8,8 @@ import img4 from "../img/naturalAroma/naturalAroma4.png"
 import img5 from "../img/naturalAroma/naturalAroma5.png"
 import img6 from "../img/naturalAroma/naturalAroma6.png"
 
+import imgCelo from "../img/naturalAroma/celo.png"
+
 const NaturalAroma = () => {
   return (
     <div className='naturalAroma'>
