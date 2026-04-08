@@ -49,7 +49,7 @@ const NaturalAroma = () => {
 </div>
 
 <div className="itensNaturalAroma">
-<img src={img6} alt="" />
+<img src={img6} alt="" className='imgItemNaturalAroma'/>
 </div>
 
 </div>
