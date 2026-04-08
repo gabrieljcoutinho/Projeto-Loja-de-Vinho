@@ -39,12 +39,12 @@
     width: 500px;
 }
 
-.imgSeloMovimentacao{
-  padding-left: 117rem;
-transform: translate(0px, -170px);
+.imgSeloMovimentacao {
+    padding-left: 117rem;
+    transform: translate(0px, -170px);
 }
 
-.naturaSelo{
-background-color: #fff;
-padding-left: 50rem;
+.naturaSelo {
+    background-color: #fff;
+    padding-left: 50rem;
 }
