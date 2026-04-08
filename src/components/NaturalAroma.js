@@ -41,7 +41,7 @@ const NaturalAroma = () => {
 <div className="flexboxNaturalAroma">
 
 <div className="itensNaturalAroma">
-<img src={img4} alt="" />
+<img src={img4} alt="" className='imgItemNaturalAroma'/>
   </div>
 
   <div className="itensNaturalAroma">
