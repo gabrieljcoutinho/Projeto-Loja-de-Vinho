@@ -71,7 +71,7 @@ const NaturalAroma = () => {
 
                           <span>
                                       <img src={imgSeloNatura1} alt="" className='selos'/>
-                                        <h5>WINE GLASS</h5>
+                                        <h5>Wine Glass</h5>
                           </span>
 
                           <span>
