@@ -11,9 +11,9 @@ import img6 from "../img/naturalAroma/naturalAroma6.png"
 import imgSelo from "../img/naturalAroma/selo.png"
 
 import imgSeloNatura1 from "../img/naturaAromaSelo/wineGlass.png"
-import imgSeloNatura2 from "../img/naturaAromaSelo/oldHabitat.png"
+import imgSeloNatura2 from "../img/naturaAromaSelo/fineSmell.png"
 import imgSeloNatura3 from "../img/naturaAromaSelo/uniqueSort.png"
-import imgSeloNatura4 from "../img/naturaAromaSelo/wineGlass.png"
+import imgSeloNatura4 from "../img/naturaAromaSelo/oldHabitat.png"
 
 const NaturalAroma = () => {
   return (
@@ -74,7 +74,7 @@ const NaturalAroma = () => {
                           </span>
 
                           <span>
-
+                          <img src={imgSeloNatura2} alt="" />
                             </span>
 
                 </div>
