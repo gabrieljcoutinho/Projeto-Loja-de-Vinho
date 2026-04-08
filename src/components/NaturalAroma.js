@@ -5,7 +5,7 @@ const NaturalAroma = () => {
   return (
     <div>
 
-                <h3>AUGUE SED NEC</h3>
+                <h3 className='subtitulo'>AUGUE SED NEC</h3>
 
                 <h2>NATURAL AROMA</h2>
 
