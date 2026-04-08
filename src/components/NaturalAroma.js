@@ -9,6 +9,10 @@ const NaturalAroma = () => {
 
                 <h2 className='titulo'>NATURAL AROMA</h2>
 
+                <div className="flexboxNaturalAroma">
+                  
+                </div>
+
     </div>
   )
 }
