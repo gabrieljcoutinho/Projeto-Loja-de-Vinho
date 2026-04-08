@@ -44,7 +44,7 @@ const NaturalAroma = () => {
                         </div>
 
                         <div className="itensNaturalAroma">
-5
+                        <img src={img5} alt="" />
                       </div>
 
                       <div className="itensNaturalAroma">
