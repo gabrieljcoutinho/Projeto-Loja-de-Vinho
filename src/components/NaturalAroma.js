@@ -7,7 +7,7 @@ const NaturalAroma = () => {
 
                 <h3 className='subtitulo'>AUGUE SED NEC</h3>
 
-                <h2>NATURAL AROMA</h2>
+                <h2 className='titulo'>NATURAL AROMA</h2>
 
     </div>
   )
