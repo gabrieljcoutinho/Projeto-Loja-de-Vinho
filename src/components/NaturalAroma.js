@@ -15,15 +15,15 @@ const NaturalAroma = () => {
                 <div className="flexboxNaturalAroma">
 
                       <div className="itensNaturalAroma">
-
+1
                       </div>
 
                       <div className="itensNaturalAroma">
-
+2
                       </div>
 
                       <div className="itensNaturalAroma">
-
+3
                       </div>
 
                 </div>
@@ -31,6 +31,18 @@ const NaturalAroma = () => {
 
 
                 <div className="flexboxNaturalAroma">
+
+                <div className="itensNaturalAroma">
+4
+                        </div>
+
+                        <div className="itensNaturalAroma">
+5
+                      </div>
+
+                      <div className="itensNaturalAroma">
+6
+                      </div>
 
                   </div>
 
