@@ -26,7 +26,7 @@ const NaturalAroma = () => {
                       </div>
 
                       <div className="itensNaturalAroma">
-2
+                      <img src={img2} alt="" />
                       </div>
 
                       <div className="itensNaturalAroma">
