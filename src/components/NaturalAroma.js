@@ -13,6 +13,7 @@ import imgSelo from "../img/naturalAroma/selo.png"
 import imgSeloNatura1 from "../img/naturaAromaSelo/wineGlass.png"
 import imgSeloNatura2 from "../img/naturaAromaSelo/oldHabitat.png"
 import imgSeloNatura3 from "../img/naturaAromaSelo/uniqueSort.png"
+import imgSeloNatura4 from "../img/naturaAromaSelo/wineGlass.png"
 
 const NaturalAroma = () => {
   return (
