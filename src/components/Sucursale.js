@@ -7,6 +7,14 @@ const Sucursale = () => {
 
             <h2 className='tituloSucursale'><span className='spanSucursale'>Sucu</span>rsale</h2>
 
+
+                <div className="viniculas">
+
+
+                    
+                </div>
+
+
     </div>
   )
 }
