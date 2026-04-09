@@ -5,7 +5,7 @@ const Sucursale = () => {
   return (
     <div>
 
-            <h2>Sucursale</h2>
+            <h2><span>Sucu</span>rsale</h2>
 
     </div>
   )
