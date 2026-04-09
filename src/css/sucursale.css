@@ -2,7 +2,7 @@
 
 .sucursale {
     background-color: #c0c0c0;
-    height: 700px;
+    height: 900px;
 }
 
 .tituloSucursale {
@@ -15,4 +15,8 @@
 .spanSucursale {
     color: #6C3348;
     font-family: "Kulim Park";
+}
+
+.viniculas {
+    display: flex;
 }
