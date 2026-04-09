@@ -1,6 +1,10 @@
 import React from 'react'
 import "../css/sucursale.css"
 
+import imgVinicula1 from "../img/viniculas/vinicula1.png"
+import imgVinicula2 from "../img/viniculas/vinicula2.png"
+import imgVinicula3 from "../img/viniculas/vinicula3.png"
+
 const Sucursale = () => {
   return (
     <div className='sucursale'>
