@@ -7,7 +7,7 @@ const Carta = () => {
     <div className='fundoCarta'>
 
             <div className="carta">
-
+                      qweqw
             </div>
 
 
