@@ -5,7 +5,13 @@ import fundoCarta from "../img/fundoCarta.png"
 
 const Carta = () => {
   return (
-    <div>Carta</div>
+    <div className='carta'>
+
+
+
+
+
+    </div>
   )
 }
 
