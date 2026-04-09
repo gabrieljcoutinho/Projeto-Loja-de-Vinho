@@ -2,7 +2,11 @@ import React from 'react'
 
 const Sucursale = () => {
   return (
-    <div>Sucursale</div>
+    <div>
+
+            <h2>Sucursale</h2>
+
+    </div>
   )
 }
 
