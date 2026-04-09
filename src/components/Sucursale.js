@@ -16,7 +16,7 @@ const Sucursale = () => {
       <div className="viniculas">
 
         <div className="vinicula">
-          <img src={imgVinicula1} alt="Vinícula 1"  className='imgVinicula'/>
+          <img src={imgVinicula1} alt="Vinícula 1" className='imgVinicula'/>
         </div>
 
         <div className="vinicula">
