@@ -6,7 +6,9 @@ const Carta = () => {
   return (
     <div className='fundoCarta'>
 
+            <div className="carta">
 
+            </div>
 
 
     </div>
