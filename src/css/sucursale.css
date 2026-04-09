@@ -1,6 +1,6 @@
 @import url("../fonts/KulinPark.css");
 
-/* reset básico pra evitar bugs */
+/* reset básico */
 * {
     margin: 0;
     padding: 0;
@@ -9,7 +9,6 @@
 
 body {
     overflow-x: hidden;
-    /* remove scroll horizontal */
 }
 
 /* container principal */
@@ -35,21 +34,25 @@ body {
     justify-content: center;
     gap: 500px;
     flex-wrap: wrap;
-    /* ESSENCIAL pra não quebrar layout */
     padding: 2rem;
     padding-right: 10rem;
 }
 
-/* card de cada vinícola */
+/* card */
 .vinicula {
     max-width: 300px;
     width: 100%;
 }
 
 /* imagens */
-.vinicula img {
+.imgVinicula {
     width: 500px;
     height: auto;
     display: block;
     border-radius: 10px;
+
+    /* 🔥 PRETO E BRANCO */
+    filter: grayscale(100%);
+    transition: 0.3s;
 }
+
