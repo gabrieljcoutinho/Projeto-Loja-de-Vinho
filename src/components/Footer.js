@@ -3,17 +3,38 @@ import "../css/footer.css"
 
 const Footer = () => {
   return (
-    <div className='footer'>
+    <footer className='footer'>
 
-                <div className="lista1">
+      <div className="footer-container">
 
-                </div>
+        {/* LOGO */}
+        <div className="footer-logo">
+          <h2>Market <br /> Wine</h2>
+        </div>
 
-                <div className="lista2">
+        {/* SUCURSALES */}
+        <div className="footer-col">
+          <h4>SUCURSALES</h4>
+          <ul>
+            <li>San Juan</li>
+            <li>Corrientes</li>
+            <li>Mendoza</li>
+          </ul>
+        </div>
 
-                </div>
+        {/* LINKS */}
+        <div className="footer-col">
+          <h4>LINKS</h4>
+          <ul>
+            <li>Productos</li>
+            <li>Carrito</li>
+            <li>WikWine</li>
+          </ul>
+        </div>
 
-    </div>
+      </div>
+
+    </footer>
   )
 }
 
