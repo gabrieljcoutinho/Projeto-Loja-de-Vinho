@@ -9,26 +9,25 @@ const Sucursale = () => {
   return (
     <div className='sucursale'>
 
-            <h2 className='tituloSucursale'><span className='spanSucursale'>Sucu</span>rsale</h2>
+      <h2 className='tituloSucursale'>
+        <span className='spanSucursale'>Sucu</span>rsale
+      </h2>
 
+      <div className="viniculas">
 
-                <div className="viniculas">
+        <div className="vinicula">
+          <img src={imgVinicula1} alt="Vinícula 1" />
+        </div>
 
-                        <div className="vinicula1">
-                                <img src={imgVinicula1} alt="" />
-                        </div>
+        <div className="vinicula">
+          <img src={imgVinicula2} alt="Vinícula 2" />
+        </div>
 
-                        <div className="vinicula2">
-                        <img src={imgVinicula2} alt="" />
-                            </div>
+        <div className="vinicula">
+          <img src={imgVinicula3} alt="Vinícula 3" />
+        </div>
 
-                            <div className="vinicula3">
-                            <img src={imgVinicula3} alt="" />
-                            </div>
-
-
-                </div>
-
+      </div>
 
     </div>
   )
