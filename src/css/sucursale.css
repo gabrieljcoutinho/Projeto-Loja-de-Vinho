@@ -8,7 +8,8 @@
 }
 
 body {
-    overflow-x: hidden; /* remove scroll horizontal */
+    overflow-x: hidden;
+    /* remove scroll horizontal */
 }
 
 /* container principal */
@@ -34,7 +35,8 @@ body {
     display: flex;
     justify-content: center;
     gap: 20px;
-    flex-wrap: wrap; /* ESSENCIAL pra não quebrar layout */
+    flex-wrap: wrap;
+    /* ESSENCIAL pra não quebrar layout */
     padding: 2rem;
 }
 
@@ -46,7 +48,7 @@ body {
 
 /* imagens */
 .vinicula img {
-    width: 100%;
+    width: 500px;
     height: auto;
     display: block;
     border-radius: 10px;
