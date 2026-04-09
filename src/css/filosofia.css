@@ -1,8 +1,0 @@
-.filosofia {
-    background-image: url(../img/fundoFilosofia.png);
-    height: 500px;
-
-    background-size: cover;       /* faz ocupar 100% */
-    background-position: center;  /* centraliza */
-    background-repeat: no-repeat; /* evita repetição */
-}
