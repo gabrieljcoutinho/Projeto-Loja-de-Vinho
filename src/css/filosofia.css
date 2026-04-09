@@ -1,4 +1,6 @@
 .filosofia {
     background-image: url(../img//fundoFilosofia.png);
     height: 500px;
+    background-repeat: cover;
+    background-position: cover;
 }
