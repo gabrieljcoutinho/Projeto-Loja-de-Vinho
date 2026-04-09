@@ -3,7 +3,7 @@ import "../css/sucursale.css"
 
 const Sucursale = () => {
   return (
-    <div>
+    <div className='sucursale'>
 
             <h2><span>Sucu</span>rsale</h2>
 
