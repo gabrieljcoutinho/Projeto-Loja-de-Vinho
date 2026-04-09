@@ -7,7 +7,8 @@ import NossaHistoria from "./components/NossaHistoria.js"
 import Viniculas from "./components/Viniculas.js"
 import Loja from "./components/Loja.js"
 import NaturalAroma from "./components/NaturalAroma.js"
-import Carta from "./components/Carta.js"
+import Sucursale from "./components/Sucursale.js"
+
 
 function App() {
   return (
@@ -21,7 +22,8 @@ function App() {
         <br /><br /><br /><br />
         <Loja/>
         <NaturalAroma />
-        <Carta />
+        <Sucursale />
+
     </div>
   );
 }
