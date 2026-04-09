@@ -1,10 +1,23 @@
-@import url("../fonts//KulinPark.css");
+@import url("../fonts/KulinPark.css");
 
-.sucursale {
-    background-color: #c0c0c0;
-    height: 900px;
+/* reset básico pra evitar bugs */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
+body {
+    overflow-x: hidden; /* remove scroll horizontal */
+}
+
+/* container principal */
+.sucursale {
+    background-color: #c0c0c0;
+    padding-bottom: 3rem;
+}
+
+/* título */
 .tituloSucursale {
     text-align: center;
     font-size: 50px;
@@ -14,9 +27,27 @@
 
 .spanSucursale {
     color: #6C3348;
-    font-family: "Kulim Park";
 }
 
+/* container das imagens */
 .viniculas {
     display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap; /* ESSENCIAL pra não quebrar layout */
+    padding: 2rem;
+}
+
+/* card de cada vinícola */
+.vinicula {
+    max-width: 300px;
+    width: 100%;
+}
+
+/* imagens */
+.vinicula img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 10px;
 }
