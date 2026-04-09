@@ -1,4 +1,5 @@
 import React from 'react'
+import "../css/sucursale.css"
 
 const Sucursale = () => {
   return (
