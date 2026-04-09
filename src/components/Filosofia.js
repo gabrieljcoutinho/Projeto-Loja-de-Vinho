@@ -3,7 +3,7 @@ import "../css/filosofia.css"
 
 const Filosofia = () => {
   return (
-    <div className='filosofia'></div>
+    <div className='filosofia'>afasdf</div>
   )
 }
 
