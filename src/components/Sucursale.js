@@ -20,7 +20,7 @@ const Sucursale = () => {
         </div>
 
         <div className="vinicula">
-          <img src={imgVinicula2} alt="Vinícula 2" />
+          <img src={imgVinicula2} alt="Vinícula 2" className='imgVinicula'/>
         </div>
 
         <div className="vinicula">
