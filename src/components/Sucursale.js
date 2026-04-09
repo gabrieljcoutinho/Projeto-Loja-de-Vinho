@@ -15,15 +15,15 @@ const Sucursale = () => {
                 <div className="viniculas">
 
                         <div className="vinicula1">
-
+                                <img src={imgVinicula1} alt="" />
                         </div>
 
                         <div className="vinicula2">
-
+                        <img src={imgVinicula2} alt="" />
                             </div>
 
                             <div className="vinicula3">
-
+                            <img src={imgVinicula3} alt="" />
                             </div>
 
 
