@@ -8,7 +8,7 @@ import Viniculas from "./components/Viniculas.js"
 import Loja from "./components/Loja.js"
 import NaturalAroma from "./components/NaturalAroma.js"
 import Sucursale from "./components/Sucursale.js"
-import Filosofia from "./components/Filosofia.js"
+import Footer from "./components/Footer.js"
 
 
 function App() {
@@ -24,8 +24,7 @@ function App() {
         <Loja/>
         <NaturalAroma />
         <Sucursale />
-        <Filosofia />
-
+        < Footer/>
     </div>
   );
 }
