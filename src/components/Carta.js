@@ -8,7 +8,6 @@ const Carta = () => {
 
 
 
-asas
 
     </div>
   )
