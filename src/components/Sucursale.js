@@ -5,7 +5,7 @@ const Sucursale = () => {
   return (
     <div className='sucursale'>
 
-            <h2><span>Sucu</span>rsale</h2>
+            <h2 className='tituloSucursale'><span>Sucu</span>rsale</h2>
 
     </div>
   )
