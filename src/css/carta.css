@@ -3,3 +3,9 @@
     height: 1000px;
     background-size: cover;
 }
+
+.carta{
+    background-color: #F5EBDA;
+    padding: 10px;
+    margin: 20px;
+}
