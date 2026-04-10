@@ -21,30 +21,20 @@
 .sucursale-container {
     display: flex;
     justify-content: center;
-    align-items: center;
-    gap: 2rem; /* 👈 arrumado (antes era 500px absurdo) */
-    flex-wrap: wrap; /* responsivo */
+    gap: 2rem;
+    flex-wrap: wrap;
 }
 
 /* card */
 .sucursale-card {
-    max-width: 300px;
-    width: 100%;
+    flex: 1 1 30%; /* 👈 faz as 3 ficarem lado a lado ocupando espaço */
+    max-width: 500px;
 }
 
-/* imagens */
+/* imagens grandes */
 .sucursale-card img {
     width: 100%;
-    height: auto;
+    height: 900px; /* 👈 tamanho grande e uniforme */
+    object-fit: cover; /* 👈 mantém proporção bonita */
     border-radius: 10px;
-
-    /* preto e branco */
-    filter: grayscale(100%);
-    transition: 0.3s;
-}
-
-/* efeito hover (fica colorido) */
-.sucursale-card img:hover {
-    filter: grayscale(0%);
-    transform: scale(1.05);
 }
