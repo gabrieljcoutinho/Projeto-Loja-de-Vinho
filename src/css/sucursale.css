@@ -1,49 +1,50 @@
 @import url("../fonts/KulinPark.css");
 
-/* reset básico */
-
-
 /* container principal */
 .sucursale {
-    padding-bottom: 3rem;
+    padding: 3rem 1rem;
 }
 
 /* título */
-.tituloSucursale {
+.sucursale-title {
     text-align: center;
     font-size: 50px;
     font-family: "Kulim Park";
-    padding-top: 1.5rem;
+    margin-bottom: 2rem;
 }
 
-.spanSucursale {
+.sucursale-title span {
     color: #6C3348;
 }
 
 /* container das imagens */
-.viniculas {
+.sucursale-container {
     display: flex;
     justify-content: center;
-    gap: 500px;
-    flex-wrap: wrap;
-    padding: 2rem;
-    padding-right: 10rem;
+    align-items: center;
+    gap: 2rem; /* 👈 arrumado (antes era 500px absurdo) */
+    flex-wrap: wrap; /* responsivo */
 }
 
 /* card */
-.viniculass {
+.sucursale-card {
     max-width: 300px;
     width: 100%;
 }
 
 /* imagens */
-.imgViniculas {
-    width: 500px;
+.sucursale-card img {
+    width: 100%;
     height: auto;
-    display: block;
     border-radius: 10px;
 
-    /* 🔥 PRETO E BRANCO */
+    /* preto e branco */
     filter: grayscale(100%);
     transition: 0.3s;
+}
+
+/* efeito hover (fica colorido) */
+.sucursale-card img:hover {
+    filter: grayscale(0%);
+    transform: scale(1.05);
 }
