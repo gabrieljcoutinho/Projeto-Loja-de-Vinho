@@ -15,16 +15,16 @@ const Sucursale = () => {
 
       <div className="viniculas">
 
-        <div className="vinicula">
-          <img src={imgVinicula1} alt="Vinícula 1" className='imgVinicula'/>
+        <div className="viniculass">
+          <img src={imgVinicula1} alt="Vinícula 1" className='imgViniculas'/>
         </div>
 
         <div className="vinicula">
-          <img src={imgVinicula2} alt="Vinícula 2" className='imgVinicula'/>
+          <img src={imgVinicula2} alt="Vinícula 2" className='imgViniculas'/>
         </div>
 
         <div className="vinicula">
-          <img src={imgVinicula3} alt="Vinícula 3" className='imgVinicula'/>
+          <img src={imgVinicula3} alt="Vinícula 3" className='imgViniculas'/>
         </div>
 
       </div>
