@@ -1,15 +1,7 @@
 @import url("../fonts/KulinPark.css");
 
 /* reset básico */
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
 
-body {
-    overflow-x: hidden;
-}
 
 /* container principal */
 .sucursale {
@@ -39,13 +31,13 @@ body {
 }
 
 /* card */
-.vinicula {
+.viniculass {
     max-width: 300px;
     width: 100%;
 }
 
 /* imagens */
-.imgVinicula {
+.imgViniculas {
     width: 500px;
     height: auto;
     display: block;
@@ -55,4 +47,3 @@ body {
     filter: grayscale(100%);
     transition: 0.3s;
 }
-
